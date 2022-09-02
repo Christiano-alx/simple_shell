@@ -44,7 +44,7 @@ typedef struct data
 
 
 /**
- * struct sep_list_s - single linked list 
+ * struct sep_list_s - single linked list
  * @separator: ; | &
  * @next: next node
  * Description: single linked list to store separtors
