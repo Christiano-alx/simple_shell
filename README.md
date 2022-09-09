@@ -63,7 +63,7 @@ A command will be of the type `$ command`
 This shell can handle two types of commands: builtins and normal program.
 
 ### List of built-ins
-* exit  
+* exit
     Exits the shell
 * env  
     Prints the current environment
